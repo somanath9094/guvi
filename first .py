@@ -4,5 +4,5 @@ if(a==0):
 if(a>0):
   print("Positive")
 if(a<0):
-  print("Nagative") 
+  print("Negative") 
  
